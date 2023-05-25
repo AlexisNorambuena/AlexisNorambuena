@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alexis Norambuena</h1>
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/alexis-norambuena-shakhtour/"><img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1692835200&v=beta&t=cAK17KuGjp3LXMl0Qp-Dw-WCvzyG5T87T5-TpVtS_rs" alt="linkedin" width="40" height="40"> </a>
+<p align="left"> <a href="https://www.linkedin.com/in/alexis-norambuena-shakhtour/"><img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1692835200&v=beta&t=cAK17KuGjp3LXMl0Qp-Dw-WCvzyG5T87T5-TpVtS_rs" alt="linkedin" width="40" height="40"> 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alexis-norambuena-shakhtour" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/alexis-norambuena-shakhtour?trk=profile-badge">Alexis Norambuena Shakhtour</a></div>
+              
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
