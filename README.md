@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/alexis-norambuena-shakhtour/">Linkedin
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
