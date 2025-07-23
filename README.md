@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexis Norambuena</h1>
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
+<h5 align ="justify"> Full-stack developer with over three years of experience designing and delivering robust and scalable web solutions. I have led full-cycle projects using Angular, React, Node.js, .NET Core, NestJS, and Spring Boot, integrating SQL/NoSQL databases and working with agile methodologies in cloud (Azure) and on-premise architectures. My contributions have resulted in a 25% reduction in project management time, while always providing significant added value. </h5>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://cl.linkedin.com/in/alexis-norambuena-shakhtour?trk=profile-badge"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"> </a>
 
