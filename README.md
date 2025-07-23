@@ -6,8 +6,6 @@
 <h5 align="left">Connect with me:</h5>
 <p align="left"> <a href="https://cl.linkedin.com/in/alexis-norambuena-shakhtour?trk=profile-badge"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"> </a>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alexis-norambuena-shakhtour" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/alexis-norambuena-shakhtour?trk=profile-badge">Alexis Norambuena Shakhtour</a></div>
-
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
